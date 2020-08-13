@@ -1,0 +1,33 @@
+.banner-text {
+  background-color: "white";
+  opacity: 0.8;
+  width: 75%;
+  margin: 0px;
+  border-radius: 10px;
+}
+
+.banner-text label {
+  font-size: 20px;
+  font-weight: bold;
+  color: black;
+  margin: auto;
+}
+
+.banner-text hr {
+  border-top: 5px dotted white;
+  width: 50%;
+  margin: auto;
+}
+
+.banner-text h1 {
+  color: rgb(68, 64, 64);
+  font-size: 20px;
+  padding: 1em;
+  margin-left: 600px;
+}
+.banner-text p {
+  color: rgb(68, 64, 64);
+  font-size: 20px;
+  padding: 1em;
+  margin-left: 300px;
+}
